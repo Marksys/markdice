@@ -1,0 +1,16 @@
+C:\Users\Marksys\Documents\Visual Studio 2010\Projects\markDice\markDice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marksys\Documents\Visual Studio 2010\Projects\markDice\markDice\obj\Debug\App.g.i.cs
+C:\Users\Marksys\Documents\Visual Studio 2010\Projects\markDice\markDice\obj\Debug\CreateDice.g.i.cs
+C:\Users\Marksys\Documents\Visual Studio 2010\Projects\markDice\markDice\obj\Debug\CubeTest.g.i.cs
+C:\Users\Marksys\Documents\Visual Studio 2010\Projects\markDice\markDice\obj\Debug\Dice.g.i.cs
+C:\Users\Marksys\Documents\Visual Studio 2010\Projects\markDice\markDice\obj\Debug\MainPage.g.i.cs
+C:\Users\Marksys\Documents\Visual Studio 2010\Projects\markDice\markDice\obj\Debug\markDice.g.resources
+C:\Users\Marksys\Documents\Visual Studio 2010\Projects\markDice\markDice\Bin\Debug\ApplicationIcon.png
+C:\Users\Marksys\Documents\Visual Studio 2010\Projects\markDice\markDice\Bin\Debug\Background.png
+C:\Users\Marksys\Documents\Visual Studio 2010\Projects\markDice\markDice\Bin\Debug\markDice.dll
+C:\Users\Marksys\Documents\Visual Studio 2010\Projects\markDice\markDice\Bin\Debug\markDice.pdb
+C:\Users\Marksys\Documents\Visual Studio 2010\Projects\markDice\markDice\Bin\Debug\AppManifest.xaml
+C:\Users\Marksys\Documents\Visual Studio 2010\Projects\markDice\markDice\Bin\Debug\markDice.xap
+C:\Users\Marksys\Documents\Visual Studio 2010\Projects\markDice\markDice\obj\Debug\markDice.dll
+C:\Users\Marksys\Documents\Visual Studio 2010\Projects\markDice\markDice\obj\Debug\markDice.pdb
+C:\Users\Marksys\Documents\Visual Studio 2010\Projects\markDice\markDice\obj\Debug\XapCacheFile.xml
